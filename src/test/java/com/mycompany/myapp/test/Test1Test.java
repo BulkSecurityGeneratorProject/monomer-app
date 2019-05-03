@@ -10,7 +10,7 @@ public class Test1Test {
 	public void testTest() {
 		// fail("Not yet implemented");
 		boolean a = true;
-		assertEquals(true, a);
+		assertEquals(a, true);
 	}
 
 }
